@@ -1,0 +1,40 @@
+body {
+	text-align: center;
+	display: block;
+	max-width: 800px;
+	margin: 0 auto; 
+}
+.zagolovok {
+	color: white;
+	background-color: #A52A2A;
+}
+p {
+	font-size: 18 px;
+	font-family: serif;
+}
+.img {
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.footer {
+	color: white;
+	background-color: black;
+	font-size: 20px;
+
+}
+.jurnui {
+	color: blue;
+	font-weight: bold;
+	
+}
+.strong {
+	font-style: inherit;
+}
+.border img {
+	border: 3px dashed black ;
+}
+
+
+
